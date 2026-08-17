@@ -1,9 +1,9 @@
 # Volatility Surface Calibration & Lévy Models Pricing Engine
 
 ## Project Overview
-This repository contains a comprehensive MATLAB-based quantitative framework for advanced option pricing and volatility modeling. The project bridges the gap between market data and stochastic calculus, focusing on the calibration of Exponential Lévy models and the valuation of structured derivatives using Fourier transform techniques[cite: 7].
+This repository contains a comprehensive MATLAB-based quantitative framework for advanced option pricing and volatility modeling. The project bridges the gap between market data and stochastic calculus, focusing on the calibration of Exponential Lévy models and the valuation of structured derivatives using Fourier transform techniques.
 
-*Note: This was a collaborative academic project developed for the Financial Engineering course at Politecnico di Milano. I co-developed the core pricing architecture with my team and took full technical ownership of the Volatility Surface Calibration engine.*[cite: 7]
+*Note: This was a collaborative academic project developed for the Financial Engineering course at Politecnico di Milano. I co-developed the core pricing architecture with my team and took full technical ownership of the Volatility Surface Calibration engine.*
 
 ## My Role & Technical Contributions
 Our team built the pricing library from the ground up. My specific contributions were split between leading the calibration module and co-developing the broader numerical pricing engines.
